@@ -5,8 +5,14 @@ A dynamic dashboard that allows users to select and visualize cryptocurrency pri
 ## Features
 
 - **Live Data:** Utilizes the CoinGecko API to fetch real-time cryptocurrency prices.
-- **Interactive Graphs:** Chart.js is employed to represent price trends, allowing users to select and compare different coins.
+- **Interactive Graphs:** Chart.js represents price trends, allowing users to select and compare different coins.
 - **Date Range Comparison:** View price ranges for the current date and up to 6 months ago, facilitating historical analysis.
+
+## Preview
+![Screenshot 2024-07-20 142727](https://github.com/user-attachments/assets/9b2cba80-d6c9-4bd4-8dec-0b89a694eccd)
+
+
+![Screenshot 2024-07-20 142913](https://github.com/user-attachments/assets/10a6c318-61fb-4b90-98e3-5b09d3e03ec1)
 
 ## Demo
 
