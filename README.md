@@ -10,7 +10,9 @@ A dynamic dashboard that allows users to select and visualize cryptocurrency pri
 
 ## Demo
 
-![Screenshot 2024-01-19 205455](https://github.com/Harshita-Nimje/Crypto_dashboard-/assets/140044690/c7201f8e-2ff2-4df8-87bd-0a6dd4c4888d)
+- You can access the live demo of Crypto Dashboard
+   ```bash
+   https://6655820a1cb83ab78e8dbfa4--musical-toffee-0fa6a1.netlify.app/
 
 ## Installation
 
@@ -24,7 +26,7 @@ Run the application.
    ```bash
    npm start
 
-- Open your browser and go to https://6655820a1cb83ab78e8dbfa4--musical-toffee-0fa6a1.netlify.app/.
+- Open your browser
 - Select your desired cryptocurrencies and explore the interactive graphs.
 
 ## Technologies Used
