@@ -24,7 +24,7 @@ Run the application.
    ```bash
    npm start
 
-- Open your browser and go to http://localhost:3000.
+- Open your browser and go to https://6655820a1cb83ab78e8dbfa4--musical-toffee-0fa6a1.netlify.app/.
 - Select your desired cryptocurrencies and explore the interactive graphs.
 
 ## Technologies Used
