@@ -18,7 +18,7 @@ A dynamic dashboard that allows users to select and visualize cryptocurrency pri
 
 - You can access the live demo of Crypto Dashboard
    ```bash
-   https://6655820a1cb83ab78e8dbfa4--musical-toffee-0fa6a1.netlify.app/
+   https://cryptocurrencydv.netlify.app/
 
 ## Installation
 
