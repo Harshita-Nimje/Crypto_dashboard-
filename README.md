@@ -1,70 +1,88 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📊 CRYPTOVA – Cryptocurrency Dashboard
 
-## Available Scripts
+CRYPTOVA is a cryptocurrency dashboard built with React.js that allows users to explore cryptocurrency market information, track historical price movements, and visualize digital asset performance through interactive charts.
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- **Cryptocurrency Tracking:** Explore popular cryptocurrencies, including Bitcoin, Ethereum, Solana, and more.
+- **Interactive Price Charts:** Visualize historical cryptocurrency price movements using ApexCharts.
+- **Multiple Time Ranges:** Analyze price trends across different historical periods, including 24 hours, 7 days, 30 days, 90 days, and 6 months.
+- **Market Capitalization:** Explore market capitalization data for selected cryptocurrencies.
+- **Trading Volume Insights:** View historical trading volume to understand market activity.
+- **Asset Selection:** Switch between supported cryptocurrencies using a searchable asset selector.
+- **Responsive Design:** Access the dashboard across desktop, tablet, and mobile devices.
+- **Historical Market Data:** Retrieve cryptocurrency market information through the CoinGecko API.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🖥️ Preview
 
-### `npm test`
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/9960654d-4108-4050-96a2-8bd23d954c9f" width="100%" alt="Dashboard" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/0fa22002-89c2-415d-a08d-faafcb07260b" width="100%" alt="Price Charts" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/4a2b4f8f-f151-4dd4-8bae-68a0daaf9151" width="100%" alt="Market Analysis" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/f8d65506-c1bc-4811-b45d-8e46c0f2d67a" width="100%" alt="Asset Insights" />
+    </td>
+  </tr>
+</table>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Installation
 
-### `npm run build`
+### 1. Clone the repository
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/Harshita-Nimje/Crypto_dashboard-.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2. Navigate to the project directory
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+cd Crypto_dashboard-
+```
 
-### `npm run eject`
+### 3. Install dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 4. Start the development server
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 5. Open the application
 
-## Learn More
+Navigate to:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```text
+http://localhost:3000
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠️ Technologies Used
 
-### Code Splitting
+- React.js
+- JavaScript
+- Tailwind CSS
+- ApexCharts
+- CoinGecko API
+- HTML5
+- CSS3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🙌 Acknowledgments
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **CoinGecko API** for providing cryptocurrency market data.
+- **ApexCharts** for interactive data visualization.
+- **React.js** for building the user interface.
+- **Tailwind CSS** for responsive styling.
